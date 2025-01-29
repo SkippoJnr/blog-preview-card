@@ -25,11 +25,11 @@ Users should be able to:
 
 ### Desktop view
 
-![desktop-view](https://github.com/SkippoJnr/recipe-page/blob/408161655beaf2b5b5a695cd5692f4e3780b17e9/screenshots/desktop-view.jpeg)
+![desktop-view](https://github.com/SkippoJnr/blog-preview-card/blob/3a4837177c188674eecf6cb033cb7adc59397e41/screenshots/desktop-design.jpeg)
 
 ### Links
 
-- Live Site URL: [Blog preview card](https://skippojnr.github.io/recipe-page/)
+- Live Site URL: [Blog preview card](https://skippojnr.github.io/blog-preview-card/)
 
 ## My process
 
