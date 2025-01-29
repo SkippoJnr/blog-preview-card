@@ -86,3 +86,11 @@ h1:hover {
 .attribution a {
   color: hsl(228, 45%, 44%);
 }
+@media (max-width: 375px) {
+  body {
+    padding: 0 0.6rem;
+  }
+  .card {
+    width: 100%;
+  }
+}
