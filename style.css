@@ -32,12 +32,6 @@ body {
 .description {
   padding: 20px 0 0 0;
 }
-/* .description .learning p {
-  padding: 2px 5px;
-  background-color: hsl(47, 88%, 63%);
-  font-weight: 700;
-  display: inline-block;
-} */
 .learning {
   padding: 5px 10px;
   background-color: hsl(47, 88%, 63%);
